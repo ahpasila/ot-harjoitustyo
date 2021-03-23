@@ -1,4 +1,4 @@
-#Viikko 1
+# Viikko1
 
 [gitlog.txt](https://github.com/ahpasila/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
