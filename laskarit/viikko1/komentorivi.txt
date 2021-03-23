@@ -1,0 +1,23 @@
+.
+├── Desktop -> /home/ad/home/a/ahpasila/Desktop
+├── Documents -> /home/ad/home/a/ahpasila/Documents
+├── Downloads -> /home/ad/home/a/ahpasila/Downloads
+├── kurssit
+│   └── ot2021
+│       ├── ot2021
+│       └── viikko1
+│           └── unicafe
+│               ├── poetry.lock
+│               ├── pyproject.toml
+│               └── src
+│                   ├── index.py
+│                   ├── kassapaate.py
+│                   ├── maksukortti.py
+│                   └── tests
+│                       ├── __init__.py
+│                       └── maksukortti_test.py
+└── ot-harjoitustyo
+    ├── laskarit
+    │   └── viikko1
+    └── README.md
+
