@@ -1,9 +1,4 @@
-##Viikon ruokalista
+##Viikko 1
 
-*Maanantai:* maksalaatikko
-*Tiistai:* kalakeitto
-*Keskiviikko:* makaronilaatikko
-*Torstai:* hernekeitto
-*Perjantai:* peruna-lihalaatikko
-*Lauantai:* **pizza**
-*Sunnuntai:* **pihvi ja perunat**
+[gitlog.txt](https://github.com/ahpasila/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/ahpasila/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
