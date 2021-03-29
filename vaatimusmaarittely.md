@@ -15,7 +15,7 @@ käyttäjän henkilökohtaiseen käyttöön eli käytössä on vain yksi käytt�
 
 Sovelluksessa on yksi näkymä
 
-<img srv="https://github.com/ahpasila/ot-harjoitustyo/blob/master/kuvat/kayttisluonnos.png" width="750">
+<img src="https://github.com/ahpasila/ot-harjoitustyo/blob/master/kuvat/kayttisluonnos.png" width="750">
 
 ## Perusversion tarjoama toiminnallisuus
 - käyttäjä voi luoda uuden budjetointijaksokohteen antamalla käyttöliittymässä alku- ja loppupäivämäärän
