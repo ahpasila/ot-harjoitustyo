@@ -1,3 +1,8 @@
+## Dokumentaatio
+
+[vaatimusmäärittely](https://github.com/ahpasila/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+[tuntikirjanpito](https://github.com/ahpasila/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md))
+
 ## Viikko 1
 
 Linkit tiedostoihin:
