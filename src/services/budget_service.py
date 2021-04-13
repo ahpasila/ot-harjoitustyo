@@ -1,4 +1,4 @@
-from budgetinterface import BudgetInterface
+from ui.budgetinterface import BudgetInterface
 
 class BudgetApplication:
     def __init__(self):
