@@ -1,4 +1,4 @@
-from entities.budget import Budget
+from budget import Budget
 from datetime import date
 
 class BudgetInterface:
